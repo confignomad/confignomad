@@ -1,4 +1,4 @@
-# Hi, I'm Config Nomad
+# Hi, I'm the 'Config Nomad'
 
 Exploring the intersection of networking, automation, and AI.
 
